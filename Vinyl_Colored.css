@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Sans+Pro:300,400,600,bold);
-
 * {
     padding: 0;
     margin: 0;
@@ -95,7 +94,7 @@ img {
     border: none;
 }
 strong, b {
-    font-weight: 600 !important;
+    font-weight: 400 !important;
     text-shadow: 0 0 0.5px rgb(0, 0, 0);
 }
 .head .time {
@@ -856,7 +855,7 @@ input.hidden {
     margin: 0 auto;
 }
 .thin h2 {
-    font-weight: 600;
+    font-weight: 300;
 }
 .linkbox {
     text-align: right;
