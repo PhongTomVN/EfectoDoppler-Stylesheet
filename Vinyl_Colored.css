@@ -476,7 +476,9 @@ ul.thin li {
     background-position: 0 48px;
     background-size: 50px auto !important;
 }
-
+a.class_aficionado {
+    color: rgb(0 255 0);
+}
 #extra2 {
 	position: fixed;
 	background-color: rgba(53, 54, 54, 0.85);
