@@ -967,9 +967,8 @@ table {
     border: none;
 }
 tr {
-    border: solid rgba(0, 0, 0, 0.1);
+    border: solid rgba(255, 255, 255, 0.85);
     border-width: 0 0 1px 0;
-    background-color: rgba(0, 0, 0, 0.2);
 }
 tr.rowa {
     background-color: rgba(0, 0, 0, 0.1);
@@ -1012,7 +1011,7 @@ td, th {
 }
 .head, #reply_box h3, #inbox h3, #discog_table>.box.center, .colhead, .colhead_dark {
     padding: 12px;
-    background: linear-gradient(rgba(0, 0, 0, 0.4),  rgba(0, 0, 0, 0.48));
+    background: linear-gradient(rgba(255, 255, 255, 0.1),  rgb(0, 100, 255),  rgb(0, 100, 255), rgba(255, 255, 255, 0.1));
     color: #fff !important;
     text-transform: uppercase;
     border: 1px rgba(0, 0, 0, 0.1);
@@ -1165,7 +1164,7 @@ ul.poll li.graph {
     border: none;
 }
 .torrent_table tr.group_torrent {
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: rgba(255, 255, 255, 0);
 }
 tr.group_torrent td, tr.group td, tr.torrent td {
     color: #fff;
